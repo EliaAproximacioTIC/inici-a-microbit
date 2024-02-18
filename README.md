@@ -1,7 +1,12 @@
 
+# Què és la Micro:bit?
+La Micro:bit és una placa controladora que serveix per aprendre a programar. Es pot programar de forma online a través de la web www.makecode.microbit.org i té un simulador virtual, pel qual no cal tenir la placa física.
+
+## Com utilitzar aquest codi
+
 > Obre aquesta pàgina a [https://formacionstic.github.io/inici-a-microbit/](https://formacionstic.github.io/inici-a-microbit/)
 
-## Utilitza-ho com a extensió
+### Utilitza-ho com a extensió
 
 Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 
@@ -10,7 +15,7 @@ Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 * fes clic a **Extensions** sota el menú de la roda dentada
 * cercar **https://github.com/formacionstic/inici-a-microbit** i importar
 
-## Edita aquest projecte
+### Edita aquest projecte
 
 Per editar aquest repositori a MakeCode.
 
