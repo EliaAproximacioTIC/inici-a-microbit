@@ -1,6 +1,6 @@
 
 # Què és la Micro:bit?
-La Micro:bit és una placa controladora que serveix per aprendre a programar. Es pot programar de forma online a través de la web www.makecode.microbit.org i té un simulador virtual, pel qual no cal tenir la placa física.
+La Micro:bit és una placa controladora que serveix per aprendre a programar. Es pot programar de forma online a través de la web https://makecode.microbit.org i té un simulador virtual, pel qual no cal tenir la placa física.
 
 ## Com utilitzar aquest codi
 
